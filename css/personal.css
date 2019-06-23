@@ -1,0 +1,13 @@
+p{
+    text-align: justify;
+    text-decoration: blink;
+    text-transform: capitalize;
+}
+img {
+    width: 50%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+}
